@@ -1,1 +1,0 @@
-self.__NEXT_FONT_MANIFEST="{\"pages\":{\"/_app\":[\"static/media/492090ef174e41b4-s.p.woff2\",\"static/media/6eb4b37de02d0b71-s.p.woff2\",\"static/media/09e303feaf569e00-s.p.woff2\"]},\"app\":{\"/Users/dongeuncheon/Desktop/new_board/app/layout\":[\"static/media/a34f9d1faa5f3315-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":true}"
